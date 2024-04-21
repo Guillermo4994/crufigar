@@ -4,7 +4,7 @@
 
 ## Descripción
 
-Breve descripción del proyecto, objetivos y funcionalidades principales.
+Esta es una raza nueva de gatitos nacida de la mezcla espacifica entre gris ruso y gato persa..
 
 ## Características
 
