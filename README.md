@@ -1,6 +1,6 @@
 # Pagina de gatitos
 
-![Imagen de Portada](img/gatito.jpg)
+![Imagen](img/gatito.jpg)
 
 ## Descripción
 
@@ -17,17 +17,7 @@ Esta es una raza nueva de gatitos nacida de la mezcla espacifica entre gris ruso
   
 ## Busqueda
 
-https://www.elmueble.com/mascotas/fotos-y-video-mas-adorables-gatitos_51317
+[Mas informacion](https://www.elmueble.com/mascotas/fotos-y-video-mas-adorables-gatitos_51317)
 
-## Uso
 
-Guía rápida sobre cómo utilizar el proyecto y ejemplos de código.
-
-## Contribución
-
-Información sobre cómo contribuir al proyecto, directrices para enviar pull requests y reportar issues.
-
-## Licencia
-
-Licencia bajo la cual se distribuye el proyecto.
 
