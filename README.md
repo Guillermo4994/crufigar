@@ -1,4 +1,4 @@
-# Título del Proyecto
+# Pagina de gatitos
 
 ![Imagen de Portada](img/gatito.jpg)
 
